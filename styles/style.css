@@ -250,7 +250,7 @@ h4.content-sub-title {
   .section-in-right-column {
     display: grid;
     grid-auto-flow: column;
-    grid-template-columns: 33.33% 66.66%;
+    grid-template-columns: 1fr 2fr;
     gap: 20px;
   }
 
