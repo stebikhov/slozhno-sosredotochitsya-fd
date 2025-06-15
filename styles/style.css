@@ -49,6 +49,7 @@
   font-size: var(--title-size-min);
   line-height: 96px;
   text-shadow: 4px 4px 0 var(--text-shadow-color);
+  padding-left: 20px;
 }
 
 .header__subtitle {
@@ -226,12 +227,12 @@
 }
 
 
-.content-title-2 {
+.content-title-lost-concentration {
   max-width: clamp(236px, 468.5504px + -30.2799vw, 355px);
   margin-block-end: 20px;
 }
 
-.content-title-3 {
+.content-title-how-to-concentrate {
   margin-block: max(0px, calc(41px - 5.333vw)) 0px;
 }
 
@@ -276,7 +277,7 @@ h4.content-sub-title {
     grid-auto-flow: column;
   }
 
-  .content-title-2 {
+  .content-title-lost-concentration {
     max-inline-size: 315px;
   }
 
